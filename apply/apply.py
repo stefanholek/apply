@@ -1,8 +1,12 @@
 """An apply function for Python 2 and 3."""
 
-def  apply(func, *args, **kw):
+def apply(object, args=None, kwargs=None):
     """Call a callable object with positional arguments taken from the
-    tuple args, and keyword arguments taken from the optional dictionary kw.
-    Return its results.
+    tuple args, and keyword arguments taken from the optional dictionary
+    kwargs; return its results.
     """
-    return func(*args, **kw)
+    if args is None:
+        args = ()
+    if kwargs is None:
+        kwargs = {}
+    return object(*args, **kwargs)

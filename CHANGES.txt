@@ -4,8 +4,11 @@ Changelog
 1.1 - Unreleased
 ----------------
 
+- Fix function signature.
+  [stefan]
 
 1.0 - 2011-11-25
 ----------------
 
 - Initial release.
+  [stefan]
