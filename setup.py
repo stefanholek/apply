@@ -4,7 +4,7 @@ version = '1.1'
 
 setup(name='apply',
       version=version,
-      description='An apply function for Python 2 and 3.',
+      description='An apply function for Python 2 and 3',
       long_description=open('README.txt').read() + '\n' +
                        open('CHANGES.txt').read(),
       classifiers=[
