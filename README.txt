@@ -8,8 +8,8 @@ An apply function for Python 2 and 3
 Package Contents
 ================
 
-apply(func, \*args, \*\*kw)
-    Call func with args and kw args; return its results.
+apply(object, args=None, kwargs=None)
+    Call object with args and kwargs; return its results.
 
 Overview
 ========
