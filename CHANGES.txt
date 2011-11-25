@@ -4,6 +4,8 @@ Changelog
 1.2 - Unreleased
 ----------------
 
+- Update README.
+  [stefan]
 
 1.1 - 2011-11-26
 ----------------
