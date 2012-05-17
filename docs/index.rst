@@ -20,7 +20,7 @@ which has been deprecated and removed from Python.
 API Documentation
 =================
 
-.. function:: apply.apply(object, args=None, kwargs=None)
+.. function:: apply(object, args=None, kwargs=None)
 
     Call a callable object with positional arguments taken from the optional
     tuple args, and keyword arguments taken from the optional dictionary
