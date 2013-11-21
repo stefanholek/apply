@@ -5,8 +5,8 @@ version = '1.3'
 setup(name='apply',
       version=version,
       description='An apply function for Python 2 and 3',
-      long_description=open('README.txt').read() + '\n' +
-                       open('CHANGES.txt').read(),
+      long_description=open('README.rst').read() + '\n' +
+                       open('CHANGES.rst').read(),
       classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Intended Audience :: Developers',
