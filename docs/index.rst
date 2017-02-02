@@ -23,8 +23,8 @@ API Documentation
 .. function:: apply(object, args=None, kwargs=None)
 
     Call a callable object with positional arguments taken from the optional
-    tuple args, and keyword arguments taken from the optional dictionary
-    kwargs; return its results.
+    tuple `args`, and keyword arguments taken from the optional dictionary
+    `kwargs`; return its results.
 
 Indices and Tables
 ==================
