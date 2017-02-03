@@ -40,5 +40,5 @@ apply allows to create read/write properties in a very compact way::
             return property(get, set, doc=doc)
 
     record = X509(LDAP())
-    record.CN = 'Slate Rock and Gravel Company/emailAddress=cert@slaterock.com'
+    record.CN = 'Slate Rock and Gravel Company'
 
