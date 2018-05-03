@@ -42,3 +42,10 @@ apply allows to create read/write properties in a very compact way::
     record = X509(LDAP())
     record.CN = 'Slate Rock and Gravel Company'
 
+Documentation
+=============
+
+For further details please refer to the `API Documentation`_.
+
+.. _`API Documentation`: https://apply.readthedocs.io/en/stable/
+
