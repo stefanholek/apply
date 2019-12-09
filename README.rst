@@ -15,7 +15,7 @@ Overview
 ========
 
 Python 3 has no apply. We like apply.
-I you like apply as well, have no fear. This version of apply works
+If you like apply as well, have no fear. This version of apply works
 across all versions of Python.
 
 Examples
