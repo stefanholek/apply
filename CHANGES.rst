@@ -4,6 +4,8 @@ Changelog
 1.6 - Unreleased
 ----------------
 
+- Add Python 3.8 to tox.ini. Remove old Python versions.
+  [stefan]
 
 1.5 - 2019-01-28
 ----------------
