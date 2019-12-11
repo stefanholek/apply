@@ -21,7 +21,9 @@ across all versions of Python.
 Examples
 ========
 
-apply allows to create read/write properties in a very compact way::
+apply allows to create read/write properties in a very compact way:
+
+.. code-block:: python
 
     from apply import apply
 
@@ -37,7 +39,7 @@ apply allows to create read/write properties in a very compact way::
                 return self.store.get('CN')
             def set(self, value):
                 self.store.put('CN', value)
-            return property(get, set, doc=doc)
+            return property(get, set, None, doc)
 
     record = X509(LDAP())
     record.CN = 'Slate Rock and Gravel Company'
