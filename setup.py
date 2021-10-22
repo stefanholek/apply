@@ -22,7 +22,5 @@ setup(name='apply',
       url='https://github.com/stefanholek/apply',
       license='BSD-2-Clause',
       packages=find_packages(),
-      include_package_data=True,
       zip_safe=True,
-      test_suite='apply.tests',
 )
