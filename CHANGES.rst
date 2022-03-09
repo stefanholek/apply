@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.6 - Unreleased
+1.6 - 2022-03-09
 ----------------
 
 - Add Python 3.8-3.10 to tox.ini. Remove old Python versions.
