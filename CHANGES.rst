@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.7 - Unreleased
+1.7 - 2023-09-14
 ----------------
 
 - Update tox.ini for latest tox.
