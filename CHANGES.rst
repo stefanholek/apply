@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.0 - Unreleased
+2.0 - 2026-07-06
 ----------------
 
 - Remove deprecated license classifier.
